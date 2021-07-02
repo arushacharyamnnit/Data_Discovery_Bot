@@ -1,0 +1,52 @@
+{
+    "Data Steward": {
+        "Entity": "Data Steward",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "Description": {
+        "Entity": "Description",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "Entity Name": {
+        "Entity": "Entity Name",
+        "Precision": "0.89",
+        "Recall": "1.00",
+        "F1 score": "0.94"
+    },
+    "Folder Name": {
+        "Entity": "Folder Name",
+        "Precision": "0.53",
+        "Recall": "1.00",
+        "F1 score": "0.70"
+    },
+    "Index": {
+        "Entity": "Index",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "Load Frequency": {
+        "Entity": "Load Frequency",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "O": {
+        "Entity": "O",
+        "Precision": "1.00",
+        "Recall": "0.98",
+        "F1 score": "0.99"
+    },
+    "Primary Source": {
+        "Entity": "Primary Source",
+        "Precision": "0.60",
+        "Recall": "1.00",
+        "F1 score": "0.75"
+    },
+    "Cosine Similarity": 0.9975649488203914,
+    "Root Mean Squared Error": 0.18315508021390375
+}

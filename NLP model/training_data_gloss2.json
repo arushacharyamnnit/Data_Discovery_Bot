@@ -1,0 +1,1871 @@
+{
+    "classes": [
+        "NAME",
+        "PATH",
+        "DESCRIPTION",
+        "STATUS",
+        "CREATOR"
+    ],
+    "annotations": [
+        [
+            "description of pool dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of pool name",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of sub state key",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        47,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of nic index",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created cpu quota",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        21,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of super category",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of capacity key",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of pool type10",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of host dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        19,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of pool category10",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "details of pool category10",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        11,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of pool category30 description",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        67,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of image dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of reserved cores",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of sub state key",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of metering name",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        58,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of sub state key",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        47,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of time terminated",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        38,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of image created",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of host key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        53,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of pool category10 description",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        61,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created pool category30 description",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created host key",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        20,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of cores",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        28,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of image name",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        25,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of capacity index",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        25,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of attachment state",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of vm capacity dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of detail fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of image key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of attachment dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        29,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created pool type",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        21,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of image key",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of shape family dim",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        38,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of image dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of attachment dim",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        37,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of server key",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "parent path of host dim",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "PATH"
+                    ],
+                    [
+                        15,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of pool category20",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of hypervisor key",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of shape",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        16,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of start date",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "parent path of shape",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "PATH"
+                    ],
+                    [
+                        15,
+                        20,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of placement state",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of image id",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of private ip address",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of pool name",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "details of image updated",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        11,
+                        24,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of instance pool id",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of capacity index",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        42,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of image key?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of cpu quota",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "details of host name",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        11,
+                        20,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created pool type20",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "parent path of pool type20",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "PATH"
+                    ],
+                    [
+                        15,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of pool dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        30,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of shape family dim",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of shape family dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "details of time terminated",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        11,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of instance dim",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        34,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "creator of record date",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "CREATOR"
+                    ],
+                    [
+                        11,
+                        22,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of pool type10",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of pool type20",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        33,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created pool category10",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of pool type",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "parent path of shape family dim",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "PATH"
+                    ],
+                    [
+                        15,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of capacity index",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        59,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of pool category10",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        37,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of host name",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of region?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        33,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of server key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of numa node",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of pool category10 description",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        67,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of os version",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        44,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of attachment dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of os",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of attachment dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of attachment key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        59,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of time created",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        46,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of instance name",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        35,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of instance dim",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of instance type",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of capacity category",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of shape",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of cpu quota",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of capacity index",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of capacity category",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        62,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of hypervisor dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of image created",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        35,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created os version",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        22,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of image key",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created time terminated",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "parent path of pool category10",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "PATH"
+                    ],
+                    [
+                        15,
+                        30,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is parent path of metering name",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "PATH"
+                    ],
+                    [
+                        23,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of os version",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created start date",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        22,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of pool type20",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of reserved cores?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        41,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description of state",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        35,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of attachment key",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        29,
+                        "NAME"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

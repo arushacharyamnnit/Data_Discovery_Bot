@@ -1,0 +1,70 @@
+{
+    "job_action": {
+        "Entity": "job_action",
+        "Precision": "0.94",
+        "Recall": "0.58",
+        "F1 score": "0.71"
+    },
+    "job_creator": {
+        "Entity": "job_creator",
+        "Precision": "1.00",
+        "Recall": "0.75",
+        "F1 score": "0.86"
+    },
+    "job_name": {
+        "Entity": "job_name",
+        "Precision": "0.98",
+        "Recall": "0.92",
+        "F1 score": "0.95"
+    },
+    "job_type": {
+        "Entity": "job_type",
+        "Precision": "1.00",
+        "Recall": "0.90",
+        "F1 score": "0.95"
+    },
+    "log_date": {
+        "Entity": "log_date",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "next_run_date": {
+        "Entity": "next_run_date",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "owner": {
+        "Entity": "owner",
+        "Precision": "0.84",
+        "Recall": "1.00",
+        "F1 score": "0.91"
+    },
+    "repeat_interval": {
+        "Entity": "repeat_interval",
+        "Precision": "1.00",
+        "Recall": "0.81",
+        "F1 score": "0.90"
+    },
+    "run_duration": {
+        "Entity": "run_duration",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "start_date": {
+        "Entity": "start_date",
+        "Precision": "1.00",
+        "Recall": "1.00",
+        "F1 score": "1.00"
+    },
+    "status": {
+        "Entity": "status",
+        "Precision": "0.74",
+        "Recall": "0.85",
+        "F1 score": "0.79"
+    },
+    "Cosine Similarity": 0.9640615650345828,
+    "Root Mean Squared Error": 1.9177215189873418
+}

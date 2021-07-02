@@ -1,0 +1,1953 @@
+{
+    "classes": [
+        "NAME",
+        "DESCRIPTION",
+        "STATUS",
+        "CREATOR"
+    ],
+    "annotations": [
+        [
+            "status and description and creator of Image Created in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Pool Category10 in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Pool Dim what is the status of Instance Dim",
+            {
+                "entities": [
+                    [
+                        32,
+                        38,
+                        "STATUS"
+                    ],
+                    [
+                        42,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of Hypervisor Key in Compute",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Attachment Key in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Attachment Dim what is the status of Shape",
+            {
+                "entities": [
+                    [
+                        38,
+                        44,
+                        "STATUS"
+                    ],
+                    [
+                        48,
+                        53,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created Pool Category30 Description in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Hypervisor ID",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        53,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Cores in Compute/Pool Dim?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of State in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Attachment Key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        59,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of HyperVisor Dim in Compute",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Hardware Shape in Compute/Instance Dim?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        41,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of Image Name in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Instance ID",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Pool Name",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Pool Dim present in Compute/Attachment Dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Record Date in Compute?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        38,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Pool Category30 in Compute",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Instance State in Compute/Host Dim?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        41,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Shape in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of OS in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Image Created in Compute/State Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        35,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Server Type in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Attachment Dim in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        42,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Cores in Compute/Shape Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute what is the status of Cores",
+            {
+                "entities": [
+                    [
+                        23,
+                        29,
+                        "STATUS"
+                    ],
+                    [
+                        33,
+                        38,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of Image Key in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of HyperVisor Dim",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Hardware Shape in Compute",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        52,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Sub State Key present in Compute/State Dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Server Type present in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Attachment State in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        50,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Capacity State in Compute/Image Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created Shape Dim in Compute/Attachment Dim",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        21,
+                        "STATUS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of NVMES",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Shape",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        50,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of OS Version in Compute",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        44,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created Super Category in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        26,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Attachment State in Compute/Attachment Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        50,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Instance Name in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Pool Dim what is the status of Instance Name",
+            {
+                "entities": [
+                    [
+                        32,
+                        38,
+                        "STATUS"
+                    ],
+                    [
+                        42,
+                        55,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Total Cores in Compute",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of Pool Category30 in Compute/Image Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        30,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Instance ID",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Pool Type20 in Compute/Shape Dim",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        39,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Shape Dim",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Instance Type in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        35,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Cores in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        27,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Hardware Shape in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Image Key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        54,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Placement State in Compute/State Dim?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        42,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Host Dim",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        48,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Attachment Number in Compute/Shape Family Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        55,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of Super Category in Compute/Shape Dim",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of VM Capacity Dim in Compute/Image Dim",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of Reserved Cores in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        29,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Pool Category10 Description present in Compute/Shape Dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        59,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Pool Type10 in Compute?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        38,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created State in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        17,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of Fault Domain in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        46,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of Availability Domain in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        53,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of OS Version in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Image Key in Compute/HyperVisor Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of NUMA Node in Compute/Image Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created Total Cores in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        23,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of Image ID in Compute/HyperVisor Dim",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        30,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Instance State",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        59,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Super Category in Compute/HyperVisor Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        52,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Pool Category30 in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of VM Capacity Dim in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        37,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "description of Image Name in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        15,
+                        25,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Instance Key",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        57,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of Pool Category10 in Compute/Attachment Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of Placement State in Compute",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        33,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Start Date in Compute?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        37,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Time Terminated",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        55,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Server Type",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        56,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of Shape Family Dim in Compute",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        34,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Hypervisor ID in Compute/Attachment Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "status, description and creator of VM Capacity Dim in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        7,
+                        18,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        23,
+                        30,
+                        "CREATOR"
+                    ],
+                    [
+                        34,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is status of Instance Dim in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        8,
+                        14,
+                        "STATUS"
+                    ],
+                    [
+                        18,
+                        30,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Time Terminated",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        55,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of Pool Type20 in Compute/State Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me about the status of Host Key in Compute",
+            {
+                "entities": [
+                    [
+                        18,
+                        24,
+                        "STATUS"
+                    ],
+                    [
+                        28,
+                        36,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Shape Family present in Compute/Detail Fact",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        44,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Image Key",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        49,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "can you give me the description Pool Dim present in Compute/Pool Dim",
+            {
+                "entities": [
+                    [
+                        20,
+                        31,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        32,
+                        40,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Image Dim what is the status of Sub State Key",
+            {
+                "entities": [
+                    [
+                        33,
+                        39,
+                        "STATUS"
+                    ],
+                    [
+                        43,
+                        56,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Attachment Dim what is the status of Pool Type",
+            {
+                "entities": [
+                    [
+                        38,
+                        44,
+                        "STATUS"
+                    ],
+                    [
+                        48,
+                        57,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the status and who is the creator of Detail Fact",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        41,
+                        "CREATOR"
+                    ],
+                    [
+                        45,
+                        56,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who is the creator of Image Name in Compute",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "CREATOR"
+                    ],
+                    [
+                        22,
+                        32,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of Record Date in Compute/VM Capacity Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        33,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "hey, can you give me the description of Shape Family",
+            {
+                "entities": [
+                    [
+                        25,
+                        36,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        40,
+                        52,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "show me the status of CPU Quota in Compute/Instance Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "STATUS"
+                    ],
+                    [
+                        22,
+                        31,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "who created Capacity Key in Compute/Shape Dim",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "CREATOR"
+                    ],
+                    [
+                        12,
+                        24,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "tell me the details and status of Server Type in Compute/HyperVisor Dim",
+            {
+                "entities": [
+                    [
+                        12,
+                        19,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        24,
+                        30,
+                        "STATUS"
+                    ],
+                    [
+                        34,
+                        45,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "what is the description of Host Name in Compute/VM Capacity Dim?",
+            {
+                "entities": [
+                    [
+                        12,
+                        23,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        36,
+                        "NAME"
+
+
+                        
+                    ]
+                ]
+            }
+        ],
+        [
+            "status and description and creator of Shape in Compute",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "STATUS"
+                    ],
+                    [
+                        11,
+                        22,
+                        "DESCRIPTION"
+                    ],
+                    [
+                        27,
+                        34,
+                        "CREATOR"
+                    ],
+                    [
+                        38,
+                        43,
+                        "NAME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Compute/Instance Dim what is the status of NVMES",
+            {
+                "entities": [
+                    [
+                        36,
+                        42,
+                        "STATUS"
+                    ],
+                    [
+                        46,
+                        51,
+                        "NAME"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

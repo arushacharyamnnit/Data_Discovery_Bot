@@ -1,0 +1,15 @@
+{
+    "bot_performance_metrics":"bot_performance_metrics",
+    "user_id":"user_id",
+    "user_query_input":"user_query_input",
+    "query_input_time":"query_input_time",
+    "bot_response_time":"bot_response_time",
+    "successful":"successful",
+    "query_entity_matcher":"query_entity_matcher",
+    "query_id":"query_id",
+    "entity_id":"entity_id",
+    "entities":"entities",
+    "entity_name":"entity_name",
+    "Feedback":"Feedback",
+    "Comments":"Comments"
+}
